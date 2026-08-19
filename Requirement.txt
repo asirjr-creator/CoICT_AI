@@ -1,0 +1,2 @@
+streamlit>=1.61.1
+ollama>=0.32.14
